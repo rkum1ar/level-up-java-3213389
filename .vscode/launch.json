@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DaysCount",
+      "request": "launch",
+      "mainClass": "com.linkedin.javacodechallenges.DaysCount",
+      "projectName": "javacodechallenges"
+    },
+    {
+      "type": "java",
       "name": "Person",
       "request": "launch",
       "mainClass": "com.linkedin.javacodechallenges.Person",
