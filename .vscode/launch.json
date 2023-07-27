@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Person",
+      "request": "launch",
+      "mainClass": "com.linkedin.javacodechallenges.Person",
+      "projectName": "javacodechallenges"
+    },
+    {
+      "type": "java",
       "name": "Launch App",
       "request": "launch",
       "mainClass": "com.linkedin.javacodechallenges.App",
