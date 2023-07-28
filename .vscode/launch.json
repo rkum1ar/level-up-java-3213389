@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StudentVolunteers",
+      "request": "launch",
+      "mainClass": "com.linkedin.javacodechallenges.StudentVolunteers",
+      "projectName": "javacodechallenges"
+    },
+    {
+      "type": "java",
       "name": "DaysCount",
       "request": "launch",
       "mainClass": "com.linkedin.javacodechallenges.DaysCount",
